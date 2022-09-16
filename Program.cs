@@ -1,3 +1,3 @@
-﻿Console.WriteLine("Ingresa tu nombre");
-string nombre= Console.ReadLine();
-Console.WriteLine(nombre);
+﻿Console.WriteLine("Ingresa tu edad");
+string edad= Console.ReadLine();
+Console.WriteLine(edad);
